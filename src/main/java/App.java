@@ -1,6 +1,7 @@
 public class App {
-    public static void main(String[] args) {
-        System.out.println("Hello Maven Project");
-    }
-}
 
+    public static void main(String[] args) {
+        System.out.println("Hello from Jenkins Auto Build 🚀");
+    }
+
+}
